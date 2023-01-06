@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Jitterbug.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>5</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A972A54E954D42C5137A7115C6D36EF2E9580224</string>
+				<key>dateExpires</key>
+				<string>2024/01/02</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A972A54E954D42C5137A7115C6D36EF2E9580224</string>
+						<key>dateExpires</key>
+						<string>2024/01/02</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>M73S859JB7</string>
+						<key>name</key>
+						<string>Eunsae Rha</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.1300</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>5</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A972A54E954D42C5137A7115C6D36EF2E9580224</string>
+						<key>dateExpires</key>
+						<string>2024/01/02</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>M73S859JB7.com.June.Jitterbug.JitterbugTunnel</string>
+						<key>com.apple.developer.networking.networkextension</key>
+						<array>
+							<string>packet-tunnel-provider</string>
+						</array>
+						<key>com.apple.developer.team-identifier</key>
+						<string>M73S859JB7</string>
+						<key>get-task-allow</key>
+						<false/>
+					</dict>
+					<key>name</key>
+					<string>JitterbugTunnel.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>6e976cf5-3c6a-44a6-b2aa-1e943cc36604</string>
+						<key>dateExpires</key>
+						<string>2024/01/02</string>
+						<key>name</key>
+						<string>iOS Team Ad Hoc Provisioning Profile: com.June.Jitterbug.JitterbugTunnel</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>M73S859JB7</string>
+						<key>name</key>
+						<string>Eunsae Rha</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.2.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>M73S859JB7.com.June.Jitterbug</string>
+				<key>com.apple.developer.networking.networkextension</key>
+				<array>
+					<string>packet-tunnel-provider</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>M73S859JB7</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Jitterbug.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d8ce9134-e484-45a3-8681-84fb386b5d08</string>
+				<key>dateExpires</key>
+				<string>2024/01/02</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.June.Jitterbug</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>M73S859JB7</string>
+				<key>name</key>
+				<string>Eunsae Rha</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.2.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
