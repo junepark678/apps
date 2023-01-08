@@ -1,0 +1,155 @@
+
+App Thinning Size Report for All Variants of Sileo
+
+Variant: Sileo-0AB32405-091F-4B21-AAD7-063CEC32749E.ipa
+Supported variant descriptors: [device: iPad4,5, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad7,5, os-version: 12.2], and [device: iPad7,6, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-0B3FF287-3BDB-42CF-B506-8598E822B60D.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 15.0], [device: iPad11,7, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad6,11, os-version: 15.0], and [device: iPad7,5, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-24F8858E-E81D-48AE-B7D0-0C3FE1F680F5.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 15.0], [device: iPad13,17, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad13,16, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad13,10, os-version: 15.0], and [device: iPad13,1, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-27B25DB0-044B-4E1E-897F-EE28B1A31E47.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], and [device: iPhone11,6, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-4BB81130-A99C-47D8-9860-8AED74A0C269.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 13.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], and [device: iPhone9,4, os-version: 13.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-57ADBDC3-45C9-4394-8B3D-9759DB78B979.ipa
+Supported variant descriptors: [device: iPhone13,1, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], and [device: iPhone14,5, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-595A6C57-B845-4C49-9D29-39A839E16C25.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 15.0] and [device: iPhone11,8, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-651FC740-0C10-47F4-8D2D-EC653D2F18EF.ipa
+Supported variant descriptors: [device: iPhone12,8, os-version: 15.0], [device: iPhone9,1, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone9,3, os-version: 15.0], and [device: iPhone10,4, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-843C06F3-CACA-43EF-A30D-AC0D064AA4E7.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], and [device: iPod9,1, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-8958EDB2-F44C-4B57-8AB7-B6894D8A4208.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 13.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 14.0], and [device: iPod9,1, os-version: 14.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-A6601BAC-9652-4017-B30E-5922FE60D69F.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 13.0], [device: iPad13,10, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad7,3, os-version: 13.0], [device: iPad13,11, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad8,12, os-version: 13.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,12, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad13,9, os-version: 14.0], [device: iPad8,9, os-version: 13.0], [device: iPad13,7, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad13,5, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad8,5, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad11,2, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad8,3, os-version: 13.0], and [device: iPad11,1, os-version: 13.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-B327E2B7-9115-4A64-9C35-8E98A3358861.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], and [device: iPhone8,1, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-B53D8D69-C3CF-4E5B-8717-A5B5C2E7EF4A.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.2] and [device: iPhone8,2, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-B64B2E92-C2FE-4B55-A58F-FC431A15A483.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone10,1, os-version: 14.0], and [device: iPhone10,4, os-version: 13.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-C7860146-AEC9-4935-A17E-05A4C4EDDFDF.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0] and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-D1241F2D-8120-4EE5-BEC2-53CF6091EF1C.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], and [device: iPhone11,8, os-version: 14.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-E0536353-C8E8-4735-9E5C-18D2DD4BD6DF.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-E5F35C5F-3D89-44B7-8E60-D303DBDC1F48.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], and [device: iPhone9,1, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-E99C912F-9B5F-4943-B434-33562F464583.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,3, os-version: 12.2], and [device: iPad6,3, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-F1B2BCBC-190D-4144-A01C-045D035B2E32.ipa
+Supported variant descriptors: [device: iPad7,11, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad6,8, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,11, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,6, os-version: 14.0], and [device: iPad5,2, os-version: 14.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo-F8F61DFF-8A97-438B-9AC1-5E6520525ABC.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 12 MB uncompressed
+App size: 4 MB compressed, 12 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Sileo.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 4.3 MB compressed, 12.3 MB uncompressed
+App size: 4.3 MB compressed, 12.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
