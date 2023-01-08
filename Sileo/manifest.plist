@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo/Apps/Sileo.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo.57x57.png</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo.256x256.png</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo.256x256.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-8958EDB2-F44C-4B57-8AB7-B6894D8A4208.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-8958EDB2-F44C-4B57-8AB7-B6894D8A4208.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -96,7 +96,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-4BB81130-A99C-47D8-9860-8AED74A0C269.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-4BB81130-A99C-47D8-9860-8AED74A0C269.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -272,7 +272,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-0B3FF287-3BDB-42CF-B506-8598E822B60D.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-0B3FF287-3BDB-42CF-B506-8598E822B60D.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -384,7 +384,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-27B25DB0-044B-4E1E-897F-EE28B1A31E47.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-27B25DB0-044B-4E1E-897F-EE28B1A31E47.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -461,7 +461,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-E0536353-C8E8-4735-9E5C-18D2DD4BD6DF.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-E0536353-C8E8-4735-9E5C-18D2DD4BD6DF.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -482,7 +482,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-E99C912F-9B5F-4943-B434-33562F464583.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-E99C912F-9B5F-4943-B434-33562F464583.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -622,7 +622,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-C7860146-AEC9-4935-A17E-05A4C4EDDFDF.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-C7860146-AEC9-4935-A17E-05A4C4EDDFDF.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -647,7 +647,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-24F8858E-E81D-48AE-B7D0-0C3FE1F680F5.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-24F8858E-E81D-48AE-B7D0-0C3FE1F680F5.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -887,7 +887,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-E5F35C5F-3D89-44B7-8E60-D303DBDC1F48.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-E5F35C5F-3D89-44B7-8E60-D303DBDC1F48.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -929,7 +929,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-B53D8D69-C3CF-4E5B-8717-A5B5C2E7EF4A.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-B53D8D69-C3CF-4E5B-8717-A5B5C2E7EF4A.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -957,7 +957,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-651FC740-0C10-47F4-8D2D-EC653D2F18EF.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-651FC740-0C10-47F4-8D2D-EC653D2F18EF.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1008,7 +1008,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-B64B2E92-C2FE-4B55-A58F-FC431A15A483.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-B64B2E92-C2FE-4B55-A58F-FC431A15A483.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1083,7 +1083,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-F1B2BCBC-190D-4144-A01C-045D035B2E32.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-F1B2BCBC-190D-4144-A01C-045D035B2E32.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1257,7 +1257,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-843C06F3-CACA-43EF-A30D-AC0D064AA4E7.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-843C06F3-CACA-43EF-A30D-AC0D064AA4E7.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1288,7 +1288,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-B327E2B7-9115-4A64-9C35-8E98A3358861.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-B327E2B7-9115-4A64-9C35-8E98A3358861.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1351,7 +1351,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-57ADBDC3-45C9-4394-8B3D-9759DB78B979.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-57ADBDC3-45C9-4394-8B3D-9759DB78B979.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1483,7 +1483,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-D1241F2D-8120-4EE5-BEC2-53CF6091EF1C.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-D1241F2D-8120-4EE5-BEC2-53CF6091EF1C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1522,7 +1522,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-A6601BAC-9652-4017-B30E-5922FE60D69F.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-A6601BAC-9652-4017-B30E-5922FE60D69F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1881,7 +1881,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-F8F61DFF-8A97-438B-9AC1-5E6520525ABC.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-F8F61DFF-8A97-438B-9AC1-5E6520525ABC.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1900,7 +1900,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-595A6C57-B845-4C49-9D29-39A839E16C25.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-595A6C57-B845-4C49-9D29-39A839E16C25.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1925,7 +1925,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cydia.ga/Sileo-0AB32405-091F-4B21-AAD7-063CEC32749E.ipa</string>
+					<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo-0AB32405-091F-4B21-AAD7-063CEC32749E.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
