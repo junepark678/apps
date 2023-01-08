@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://cydia.ga/Sileo.ipa</string>
+		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo.app</string>
 		<key>displayImageURL</key>
-		<string>https://cydia.ga/Sileo.57x57.png</string>
+		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo.59x59.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://cydia.ga/Sileo.256x256.png</string>
+		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo.256x256.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
@@ -24,6 +24,6 @@
 	<key>teamID</key>
 	<string>M73S859JB7</string>
 	<key>thinning</key>
-	<string>&lt;thin-for-all-variants&gt;</string>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>
