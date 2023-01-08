@@ -9,9 +9,9 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo.app</string>
+		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo/Apps/Sileo.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo.59x59.png</string>
+		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo.57x57.png</string>
 		<key>fullSizeImageURL</key>
 		<string>https://raw.githubusercontent.com/junepark678/apps/master/Sileo.256x256.png</string>
 	</dict>
